@@ -45,8 +45,8 @@
 
         <EditText
             android:id="@+id/edAlcool"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="250dp"
+            android:layout_height="60dp"
             android:layout_marginHorizontal="30dp"
             android:ems="10"
             android:hint="Preço da gasolina"
@@ -54,19 +54,20 @@
 
         <EditText
             android:id="@+id/edGasolina"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="250dp"
+            android:layout_height="60dp"
             android:ems="10"
             android:hint="alcool"
             android:inputType="numberDecimal" />
 
         <Switch
             android:id="@+id/swPercentual"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
             android:layout_gravity="right"
             android:layout_marginHorizontal="40dp"
-            android:text="@string/_75" />
+            android:text="@string/_75"
+            android:textAlignment="center" />
 
         <Button
             android:id="@+id/btCalcular"

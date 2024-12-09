@@ -7,4 +7,17 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="gold_light">#D4AF37</color> <!-- Dourado Saturado Claro -->
+    <color name="gold_dark">#A67C00</color> <!-- Dourado Saturado Escuro -->
+
+    <!-- Bronze tones -->
+    <color name="bronze_light">#B87333</color> <!-- Bronze Médio -->
+    <color name="bronze_dark">#6A4423</color> <!-- Bronze Escuro -->
+
+    <!-- Accents -->
+    <color name="soft_yellow">#FFE4B5</color> <!-- Amarelo Bege Suave -->
+    <color name="dark_brown">#3D2916</color> <!-- Marrom Escuro Saturado -->
+
+    <color name="light_blue">#374CD4</color> <!-- Azul Claro Saturado -->
+    <color name="dark_blue">#4B527F</color> <!-- Azul Escuro Saturado -->
 </resources>
